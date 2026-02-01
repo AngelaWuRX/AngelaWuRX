@@ -1,11 +1,11 @@
-## About me 🤗
+# About me 🤗
 Hi! I’m Angela — a UC Berkeley ’27 Data Science student with an emphasis on Business and Industrial Analytics. My interests span ML/LLMs, quantitative modeling, and the engineering discipline of translating prototypes into dependable, maintainable systems.
 
 Beyond building, I’m committed to widening access to technical education. Through 1:1 mentorship on Curious Cardinals, I help students design structured learning plans, complete projects end-to-end, and meaningfully reduce the entry barriers to rigorous STEM content.
 
 Off-screen, I’m a sports nerd; basketball 🏀 and tennis 🎾, former competitive swimmer 🏊‍♀️, now a Cal Swimming coach intern—and I’m building a training log app for amateur swimmers based on what I’ve learned from daily practice.
 
-## ⭐ Notes (my fav thing)
+# ⭐ Notes (my fav thing)
 I keep a public Obsidian vault where I rewrite algorithm ideas for people with **zero background** because I found it interesting:
 - clear definitions and “why this works”
 - data structures → algorithmic thinking → network fundamentals  
@@ -18,14 +18,14 @@ I keep a public Obsidian vault where I rewrite algorithm ideas for people with *
 
 > If you’re learning CS61B / CS170 / networks and want something approachable, feel free to skim and steal the structure.
 
-## What I’m into right now
+# What I’m into right now
 - **Transformer** 
 - **Fine-tuning + evaluation** 
 - **Systems-y ML** 
 - **Algorithms** 
 
-
-## Projects — Research / ML (selected)
+# Projects 
+## ML 
 ### 🚀 Mini-Transformer from Scratch + Ablations
 From-scratch attention/FFN/LayerNorm/residuals + toy LM + structured ablations.  
 - Repo: <link> 
@@ -38,7 +38,7 @@ Config-driven training pipeline + controlled sweeps + evaluation harness.
 Benchmark harness for QPS / P50/P95 / VRAM / quality drop across settings.  
 Repo: <link> 
 
-## Projects — Engineering / Optimization
+## Engineering / Optimization
 ### 🧠 Algorithm Optimization (NVIDIA labs): Comparing QAOA and QE-MTS
 Implemented/optimized MST-related algorithms with attention to correctness, complexity, and runtime.  
 Repo: <link>
@@ -47,7 +47,17 @@ Repo: <link>
 Built an RL-friendly environment around a structured problem setup; focused on clean state/action design + reproducible training runs.  
 Repo: <link>
 
-## Contact
+# Experience
+**Private Equity Intern — AI Infra & TMT** (Shixiangcap)  
+- Built competitive landscape templates and tracking for AI infrastructure companies
+
+**Investment Analyst Intern** (Baer Investment Advisory)  
+- Backtests / event studies and investment write-ups for PM review
+
+**M&A Intern** (CICC)  
+- Valuation modeling and diligence support
+
+# Contact
 - Email: ruoxi_wu@berkeley.edu
 - Phone: +1 (510)-499-0090
 - LinkedIn: [angelawu](linkedin.com/in/angela-w-investing)
