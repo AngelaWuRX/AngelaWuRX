@@ -1,6 +1,6 @@
-# Angela Wu (Ruoxi Wu)
+## About me
 
-Hi! I’m Angela — a UC Berkeley ’27 Data Science student. My interests span ML/LLMs, quantitative modeling, and the engineering discipline of translating prototypes into dependable, maintainable systems.
+Hi! I’m Angela — a UC Berkeley ’27 Data Science student with an emphasis on Business and Industrial Analytics. My interests span ML/LLMs, quantitative modeling, and the engineering discipline of translating prototypes into dependable, maintainable systems.
 Beyond building, I’m committed to widening access to technical education. Through 1:1 mentorship on Curious Cardinals, I help students design structured learning plans, complete projects end-to-end, and meaningfully reduce the entry barriers to rigorous STEM content.
 
 
