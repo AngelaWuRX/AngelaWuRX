@@ -1,13 +1,23 @@
 ## About me 🤗
 Hi! I’m Angela — a UC Berkeley ’27 Data Science student with an emphasis on Business and Industrial Analytics. My interests span ML/LLMs, quantitative modeling, and the engineering discipline of translating prototypes into dependable, maintainable systems.
+
 Beyond building, I’m committed to widening access to technical education. Through 1:1 mentorship on Curious Cardinals, I help students design structured learning plans, complete projects end-to-end, and meaningfully reduce the entry barriers to rigorous STEM content.
 
 Off-screen, I’m a sports nerd; basketball 🏀 and tennis 🎾, former competitive swimmer 🏊‍♀️, now a Cal Swimming coach intern—and I’m building a training log app for amateur swimmers based on what I’ve learned from daily practice.
 
+## ⭐ Notes (my main thing)
+I keep a public Obsidian vault where I rewrite algorithm ideas for people with **zero background** because I found it interesting:
+- clear definitions and “why this works”
+- lots of worked examples + common pitfalls (working on adding leetcode practices)
+- occasional blogs on papers I read (and what I think matters)
 
+📚 Notes Hub: <link>  
+📝 Blog / Paper notes: <link> (optional)
+
+> If you’re learning CS61B / CS170 / networks and want something approachable, feel free to skim and steal the structure. If not, you are also welcomed to give suggestions to help me improve.
 
 ## What I’m into right now
-- **Transformer/LLM fundamentals** 
+- **Transformer** 
 - **Fine-tuning + evaluation** 
 - **Systems-y ML** 
 - **Algorithms** 
@@ -38,10 +48,9 @@ Repo: <link>
 
 ## Theory / Learning (for people with zero foundation)
 I write “start-from-zero” notes while taking courses — the goal is: **no background required**.
-
 ### 📚 Obsidian Notes: CS61B → CS170 → Networks
 - Data structures → algorithmic thinking → network fundamentals  
-- Notes can be found here: <link> 
+- Notes can be found here: <link> You can also found some blogs about interesting papers I read.
 
 > If you’re learning these topics and want something approachable, feel free to skim and steal the structure.
 
