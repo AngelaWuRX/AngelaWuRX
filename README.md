@@ -8,13 +8,15 @@ Off-screen, I’m a sports nerd; basketball 🏀 and tennis 🎾, former competi
 ## ⭐ Notes (my fav thing)
 I keep a public Obsidian vault where I rewrite algorithm ideas for people with **zero background** because I found it interesting:
 - clear definitions and “why this works”
+- data structures → algorithmic thinking → network fundamentals  
 - lots of worked examples + common pitfalls (working on adding leetcode practices)
 - occasional blogs on papers I read (and what I think matters)
+- some math prereq with real examples on how they will be implemented
 
 📚 Notes Hub: <link>  
 📝 Blog / Paper notes: <link> (optional)
 
-> If you’re learning CS61B / CS170 / networks and want something approachable, feel free to skim and steal the structure. If not, you are also welcomed to give suggestions to help me improve.
+> If you’re learning CS61B / CS170 / networks and want something approachable, feel free to skim and steal the structure.
 
 ## What I’m into right now
 - **Transformer** 
@@ -44,16 +46,6 @@ Repo: <link>
 ### 🎮 RL Training Environment (derived from CS61B final project)
 Built an RL-friendly environment around a structured problem setup; focused on clean state/action design + reproducible training runs.  
 Repo: <link>
-
-
-## Theory / Learning (for people with zero foundation)
-I write “start-from-zero” notes while taking courses — the goal is: **no background required**.
-### 📚 Obsidian Notes: CS61B → CS170 → Networks
-- Data structures → algorithmic thinking → network fundamentals  
-- Notes can be found here: <link> You can also found some blogs about interesting papers I read.
-
-> If you’re learning these topics and want something approachable, feel free to skim and steal the structure.
-
 
 ## Contact
 - Email: ruoxi_wu@berkeley.edu
