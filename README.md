@@ -5,7 +5,7 @@ Beyond building, I’m committed to widening access to technical education. Thro
 
 Off-screen, I’m a sports nerd; basketball 🏀 and tennis 🎾, former competitive swimmer 🏊‍♀️, now a Cal Swimming coach intern—and I’m building a training log app for amateur swimmers based on what I’ve learned from daily practice.
 
-## ⭐ Notes (my main thing)
+## ⭐ Notes (my fav thing)
 I keep a public Obsidian vault where I rewrite algorithm ideas for people with **zero background** because I found it interesting:
 - clear definitions and “why this works”
 - lots of worked examples + common pitfalls (working on adding leetcode practices)
