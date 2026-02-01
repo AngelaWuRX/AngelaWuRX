@@ -39,8 +39,7 @@ I write “start-from-zero” notes while taking courses — the goal is: **no b
 
 ### 📚 Obsidian Notes: CS61B → CS170 → Networks
 - Data structures → algorithmic thinking → network fundamentals  
-- Lots of diagrams, examples, and “why this works” explanations  
-Notes can be found here: <link> 
+- Notes can be found here: <link> 
 
 > If you’re learning these topics and want something approachable, feel free to skim and steal the structure.
 
