@@ -14,7 +14,6 @@ I keep a public Obsidian vault where I rewrite algorithm ideas for people with *
 - some math prereq with real examples on how they will be implemented
 
 📚 Notes Hub: <link>  
-📝 Blog / Paper notes: <link> (optional)
 
 > If you’re learning CS61B / CS170 / networks and want something approachable, feel free to skim and steal the structure.
 
