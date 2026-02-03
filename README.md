@@ -29,10 +29,6 @@ I keep a public Obsidian vault where I rewrite algorithm ideas for people with *
 From-scratch attention/FFN/LayerNorm/residuals + toy LM + structured ablations.  
 - Repo: <link> 
 
-### 🧬 GeneLLM / DNABERT Fine-tuning (LoRA/QLoRA) + Systematic Experiments
-Config-driven training pipeline + controlled sweeps + evaluation harness.  
-- Repo: <link> 
-
 ### ⚙️ LLM Serving Benchmarks (Quantization + KV Cache + Dynamic Batching)
 Benchmark harness for QPS / P50/P95 / VRAM / quality drop across settings.  
 Repo: <link> 
@@ -40,7 +36,7 @@ Repo: <link>
 ## Engineering / Optimization
 ### 🧠 Algorithm Optimization (NVIDIA labs): Comparing QAOA and QE-MTS
 Implemented/optimized MST-related algorithms with attention to correctness, complexity, and runtime.  
-Repo: <link>
+Repo: [<link>](https://github.com/Hoponga/2026-NVIDIA.git)
 
 ### 🎮 RL Training Environment (derived from CS61B final project)
 Built an RL-friendly environment around a structured problem setup; focused on clean state/action design + reproducible training runs.  
