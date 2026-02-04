@@ -13,7 +13,7 @@ I keep a public Obsidian vault where I rewrite algorithm ideas for people with *
 - occasional blogs on papers I read (and what I think matters)
 - some math prereq with real examples on how they will be implemented
 
-📚 Notes Hub: [repo](https://github.com/AngelaWuRX/geshu-compendium.git)  or you can directly use the website (https://angelawurx.github.io/geshu-compendium/)
+📚 Notes Hub: [repo](https://github.com/AngelaWuRX/geshu-compendium.git)  or you can directly use the website [geshu-compendium](https://angelawurx.github.io/geshu-compendium/)
 
 > If you’re learning CS61B / CS170 / networks and want something approachable, feel free to skim and steal the structure.
 
