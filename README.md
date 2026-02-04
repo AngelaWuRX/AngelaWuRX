@@ -23,7 +23,6 @@ I keep a public Obsidian vault where I rewrite algorithm ideas for people with *
 - **Algorithms** 
 
 # Projects 
-## ML 
 ### 🚀 Mini-Transformer from Scratch + Ablations
 From-scratch attention/FFN/LayerNorm/residuals + toy LM + structured ablations.  
 - Repo: <link> 
@@ -32,7 +31,6 @@ From-scratch attention/FFN/LayerNorm/residuals + toy LM + structured ablations.
 Built an RL-friendly environment around a structured problem setup; focused on clean state/action design + reproducible training runs. Inspired by final project from cs61b and build on top of my mini transformer
 - Repo: <link>
 
-## Engineering / Optimization
 ### 🧠 Algorithm Optimization (NVIDIA labs): Comparing QAOA and QE-MTS
 Implemented/optimized MTS-related algorithms with attention to correctness, complexity, and runtime on LABS.  
 - Repo: [here](https://github.com/Hoponga/2026-NVIDIA/tree/45e9005deede4a0b691602ee3c7066006de4e869/team-submissions)
