@@ -35,7 +35,7 @@ Repo: <link>
 
 ## Engineering / Optimization
 ### 🧠 Algorithm Optimization (NVIDIA labs): Comparing QAOA and QE-MTS
-Implemented/optimized MST-related algorithms with attention to correctness, complexity, and runtime.  
+Implemented/optimized MTS-related algorithms with attention to correctness, complexity, and runtime on LABS.  
 Repo: [here](https://github.com/Hoponga/2026-NVIDIA/tree/45e9005deede4a0b691602ee3c7066006de4e869/team-submissions)
 
 ### 🎮 RL Training Environment (derived from CS61B final project)
