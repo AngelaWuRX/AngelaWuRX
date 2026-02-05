@@ -37,13 +37,13 @@ Implemented/optimized MTS-related algorithms with attention to correctness, comp
 
 
 # Experience
-**Private Equity Intern — AI Infra & TMT** (Shixiangcap)  
+### **Private Equity Intern — AI Infra & TMT** (Shixiangcap)  
 - Built competitive landscape templates and tracking for AI infrastructure companies
 
-**Investment Analyst Intern** (Baer Investment Advisory)  
+### **Investment Analyst Intern** (Baer Investment Advisory)  
 - Backtests / event studies and investment write-ups for PM review
 
-**M&A Intern** (CICC)  
+### **M&A Intern** (CICC)  
 - Valuation modeling and diligence support
 
 # Contact
