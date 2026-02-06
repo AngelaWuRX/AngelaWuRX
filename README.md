@@ -21,27 +21,25 @@ I keep a public Obsidian vault where I rewrite algorithm ideas for people with *
 - **Transformer** 
 - **Fine-tuning + evaluation** 
 - **Algorithms** 
-
-# Projects 
+## Projects 
 ### 🚀 Mini-Transformer from Scratch + Ablations
 From-scratch attention/FFN/LayerNorm/residuals + toy LM + structured ablations.  
 - Repo: [here](https://github.com/AngelaWuRX/alpha_ablation_us.git)
-  #### 🎮 RL trading / execution environment
-Built an RL-friendly environment around a structured problem setup; focused on clean state/action design + reproducible training runs. Inspired by final project from cs61b and build on top of my mini transformer
-
-
+- Further optimization:
+    - RL trading environment
+    - Graph algorithm helping the computer to understand the relationship between stocks better
+    - TFT algorithm to reduce complexity
 ### 🧠 Algorithm Optimization (NVIDIA labs): Comparing QAOA and QE-MTS
 Implemented/optimized MTS-related algorithms with attention to correctness, complexity, and runtime on LABS.  
 - Repo: [here](https://github.com/Hoponga/2026-NVIDIA/tree/45e9005deede4a0b691602ee3c7066006de4e869/team-submissions)
-
+### 📈 Offline Contextual Bandit Lab – Strategy Selection from Logged Data
+- Repo: 
 
 # Experience
 ### **Private Equity Intern — AI Infra & TMT** (Shixiangcap)  
 - Built competitive landscape templates and tracking for AI infrastructure companies
-
 ### **Investment Analyst Intern** (Baer Investment Advisory)  
 - Backtests / event studies and investment write-ups for PM review
-
 ### **M&A Intern** (CICC)  
 - Valuation modeling and diligence support
 
