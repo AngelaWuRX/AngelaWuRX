@@ -35,7 +35,7 @@ Implemented/optimized MTS-related algorithms with attention to correctness, comp
 ### 📈 Offline Contextual Bandit Lab – Strategy Selection from Logged Data
 - Repo: 
 
-# Experience
+# Industry Experience
 ### **Private Equity Intern — AI Infra & TMT** (Shixiangcap)  
 - Built competitive landscape templates and tracking for AI infrastructure companies
 ### **Investment Analyst Intern** (Baer Investment Advisory)  
