@@ -25,11 +25,10 @@ I keep a public Obsidian vault where I rewrite algorithm ideas for people with *
 # Projects 
 ### 🚀 Mini-Transformer from Scratch + Ablations
 From-scratch attention/FFN/LayerNorm/residuals + toy LM + structured ablations.  
-- Repo: <link> 
-
-### 🎮 RL trading / execution environment
+- Repo: [here] (https://github.com/AngelaWuRX/alpha_ablation_us.git)
+  #### 🎮 RL trading / execution environment
 Built an RL-friendly environment around a structured problem setup; focused on clean state/action design + reproducible training runs. Inspired by final project from cs61b and build on top of my mini transformer
-- Repo: <link>
+
 
 ### 🧠 Algorithm Optimization (NVIDIA labs): Comparing QAOA and QE-MTS
 Implemented/optimized MTS-related algorithms with attention to correctness, complexity, and runtime on LABS.  
