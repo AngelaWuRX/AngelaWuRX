@@ -20,7 +20,7 @@ I keep a public Obsidian vault where I rewrite algorithm ideas for people with *
 # What I’m into right now
 - **Transformer** 
 - **Fine-tuning + evaluation** 
-- **Algorithms** 
+- **Graph Algorithms** 
 ## Projects 
 ### 🚀 Mini-Transformer from Scratch + Ablations
 From-scratch attention/FFN/LayerNorm/residuals + toy LM + structured ablations.  
@@ -33,7 +33,6 @@ From-scratch attention/FFN/LayerNorm/residuals + toy LM + structured ablations.
 Implemented/optimized MTS-related algorithms with attention to correctness, complexity, and runtime on LABS.  
 - Repo: [here](https://github.com/Hoponga/2026-NVIDIA/tree/45e9005deede4a0b691602ee3c7066006de4e869/team-submissions)
 ### 📈 Offline Contextual Bandit Lab – Strategy Selection from Logged Data
-- Repo: 
 
 # Industry Experience
 ### **Private Equity Intern — AI Infra & TMT** (Shixiangcap)  
