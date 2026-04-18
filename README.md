@@ -3,7 +3,7 @@ Hi! I’m Angela — a UC Berkeley ’27 Data Science student with an emphasis o
 
 Beyond building, I’m committed to widening access to technical education. Through 1:1 mentorship on Curious Cardinals, I help students design structured learning plans, complete projects end-to-end, and meaningfully reduce the entry barriers to rigorous STEM content.
 
-Off-screen, I’m a sports nerd; basketball 🏀 and tennis 🎾, former competitive swimmer 🏊‍♀️, now a Cal Swimming coach intern—and I’m building a training log app for amateur swimmers based on what I’ve learned from daily practice.
+Off-screen, I’m a sports nerd; basketball 🏀 and tennis 🎾, former competitive swimmer 🏊‍♀️.
 
 # ⭐ Notes (my fav thing)
 I keep a public Obsidian vault where I rewrite algorithm ideas for people with **zero background** because I found it interesting:
@@ -20,7 +20,7 @@ I keep a public Obsidian vault where I rewrite algorithm ideas for people with *
 # What I’m into right now
 - **Transformer** 
 - **Fine-tuning + evaluation** 
-- **Graph Algorithms** 
+- **TCS** 
 ## Projects 
 ### 🚀 Mini-Transformer from Scratch + Ablations
 From-scratch attention/FFN/LayerNorm/residuals + toy LM + structured ablations.  
@@ -32,7 +32,6 @@ From-scratch attention/FFN/LayerNorm/residuals + toy LM + structured ablations.
 ### 🧠 Algorithm Optimization (NVIDIA labs): Comparing QAOA and QE-MTS
 Implemented/optimized MTS-related algorithms with attention to correctness, complexity, and runtime on LABS.  
 - Repo: [here](https://github.com/Hoponga/2026-NVIDIA/tree/45e9005deede4a0b691602ee3c7066006de4e869/team-submissions)
-### 📈 Offline Contextual Bandit Lab – Strategy Selection from Logged Data
 
 # Industry Experience
 ### **Private Equity Intern — AI Infra & TMT** (Shixiangcap)  
