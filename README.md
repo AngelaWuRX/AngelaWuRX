@@ -44,3 +44,5 @@ Implemented/optimized MTS-related algorithms with attention to correctness, comp
 # Contact
 - Email: ruoxi_wu@berkeley.edu
 - LinkedIn: [angelawu](linkedin.com/in/angela-w-investing)
+
+Last updated: [04, 2026]
